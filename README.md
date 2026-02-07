@@ -1,6 +1,6 @@
 # Hi 👋, I'm chatcha1234
 
-### A Junior software developer
+### AI Workflow Engineer | Software Automation
 
 - 🔭 I'm currently working on **a MERN stack**
 
