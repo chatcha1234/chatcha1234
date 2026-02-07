@@ -2,8 +2,6 @@
 
 ### A Junior software developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatcha1234&label=Profile views&color=0e75b6&style=flat" alt="chatcha1234" /> </p>
-
 - 🔭 I'm currently working on **a MERN stack**
 
 - 🌱 I'm currently learning **AI Engineering**
