@@ -36,19 +36,22 @@ I'm a technologist with **10+ years** in the industry — from **Core Network En
 ### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,scikitlearn" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend & Database
