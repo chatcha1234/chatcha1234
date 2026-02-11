@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/chatchawan-damchum/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
+  <a href="https://www.linkedin.com/in/chatchawan-damchum/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:chatchawan.da1@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
   <a href="https://portfolio2-one-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=3B82F6" /></a>
   <a href="https://drive.google.com/drive/folders/1ZIt4-Trd1Bpp3qkBPbkQun0p-OfBZa0c?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=3B82F6" /></a>
