@@ -7,10 +7,10 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/chatchawan-damchum/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chatchawan.da1@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=3B82F6" /></a>
-  <a href="https://portfolio2-one-indol.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=3B82F6" /></a>
-  <a href="https://drive.google.com/drive/folders/1ZIt4-Trd1Bpp3qkBPbkQun0p-OfBZa0c?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=3B82F6" /></a>
+  <a href="https://www.linkedin.com/in/chatchawan-damchum/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:chatchawan.da1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio2-one-indol.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://drive.google.com/drive/folders/1ZIt4-Trd1Bpp3qkBPbkQun0p-OfBZa0c?usp=drive_link"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=chatcha1234&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile views" />
