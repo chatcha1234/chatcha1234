@@ -2,7 +2,7 @@
 
 <!-- Dynamic Typing SVG -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+Hi+%F0%9F%91%8B+I'm+Chatchawan+Damchum;%3E+AI+Workflow+Engineer+%7C+Software+Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Hi+%F0%9F%91%8B+I'm+Chatchawan+Damchum;%3E+AI+Workflow+Engineer+%7C+Software+Automation" alt="Typing SVG" /></a>
 
 <br/>
 
